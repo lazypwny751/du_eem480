@@ -4,6 +4,10 @@ Bu ders kapsamında VHDL üzerinden FPGA kullanımı ve mimari tasarımı yapıl
 > [!WARNING]
 > Bu depodaki içerikler çıkmışlara yönelik ya da dersi geçmek amacıyla değil dersin mantığını anlamak ve anlatmak amacıyla hazırlanmıştır.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d66b92f4-526d-4c70-b867-cd43cdc0aaa8" />
+
+- $322 = 14.081,70₺ (at: 02-17-2026)
+
 # Tech Stack
 Bu ders içeriği projesinde kullanılan teknoloji yığını:
 - sh: Otomasyonlar için POSIX uyumlu bir shell.
