@@ -6,12 +6,19 @@ Bu ders kapsamında VHDL üzerinden FPGA kullanımı ve mimari tasarımı yapıl
 
 <img width="1024" height="1024" alt="starlight_reading_vhdl_book" src="https://github.com/user-attachments/assets/bea58b28-1e10-452f-8e95-026ca040922e" />
 
-# Tech Stack
+# Önceden kurulması gereken araçlar.
 Bu ders içeriği projesinde kullanılan teknoloji yığını:
-- sh: Otomasyonlar için POSIX uyumlu bir shell.
-- LaTeX Compiler: Dokümanlar için LaTeX derleyicisi.
-- Make: Build almak için Make.
-- VHDL: FPGA'ye kendimizi ifade etmek için VHDL.
+- sh: Otomasyonlar için POSIX uyumlu bir shell olmalıdır.
+- LaTeX Compiler: Dokümanlar için LaTeX derleyicisi gereklidir.
+- Make: Build almak için Make lazım.
+- GHDL ve GTKWave: test ortamı için gerekli paketler:
+
+> [!NOTE]
+> llvm ya da gcc backend'ini C dili ile birlikte de kod ürettirebileceğimizi görmek için kuracağız, tamamen opsiyonel. 
+
+```sh
+apt install coreutils dash texlive-latex-base make ghdl gtkwave # opsiyonel olarak "ghdl-gcc" ya da "ghdl-llvm" kurulabilir.
+```
 
 # Yapı
 ## [**00_ders_harici**](00_ders_harici/)
