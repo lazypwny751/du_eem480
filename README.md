@@ -4,7 +4,7 @@ Bu ders kapsamında VHDL üzerinden FPGA kullanımı ve mimari tasarımı yapıl
 > [!WARNING]
 > Bu depodaki içerikler çıkmışlara yönelik ya da dersi geçmek amacıyla değil dersin mantığını anlamak ve anlatmak amacıyla hazırlanmıştır.
 
-<img width="1024" height="1536" alt="starlight_reading_vhdl_by_examples" src="https://github.com/user-attachments/assets/97a6d151-b106-4271-8b8d-4b9b37bb5dd2" />
+<img width="683" height="1024" alt="starlight_reading_vhdl_by_examples_2" src="https://github.com/user-attachments/assets/fa0c1193-782b-4e85-bc57-f0ae18b55d2a" />
 
 # Tech Stack
 Bu ders içeriği projesinde kullanılan teknoloji yığını:
