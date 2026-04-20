@@ -1,9 +1,6 @@
 # Düzce Üniversitesi EEM 480 - FPGA ile Sayısal Tasarıma Giriş.
 Bu ders kapsamında VHDL üzerinden FPGA kullanımı ve mimari tasarımı yapılacak olup bu depoda da derse yönelik konu anlatımı ve kaynak kodları yer almaktadır.
 
-> [!WARNING]
-> Bu depodaki içerikler çıkmışlara yönelik ya da dersi geçmek amacıyla değil dersin mantığını anlamak ve anlatmak amacıyla hazırlanmıştır.
-
 <img width="1024" height="1024" alt="starlight_reading_vhdl_book" src="https://github.com/user-attachments/assets/bea58b28-1e10-452f-8e95-026ca040922e" />
 
 # Önceden kurulması gereken araçlar.
