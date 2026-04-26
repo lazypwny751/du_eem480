@@ -59,7 +59,7 @@ rm -f *.cf "${WAVE}"
 
 # Adim 1: kaynak dosyalari analyze et (soz dizimi + work kutuphanesine derleme).
 echo "[1/3] Analyze VHDL sources"
-ghdl -a --std=08 bin_counter.vhd bin_counter_tb.vhd
+ghdl -a --std=08 bin_counter.vhdl bin_counter_tb.vhdl
 
 # Adim 2: testbench'i elaborate et (calisabilir simulasyon modeli olustur).
 echo "[2/3] Elaborate testbench"
