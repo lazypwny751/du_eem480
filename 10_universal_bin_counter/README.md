@@ -27,7 +27,7 @@ bizim senaryomuzda vivado programındaki xsim'i simüle etmek için `sh xsim.sh 
 
 ## Vivado
 
-Vivado programında ise proje oluşturduktan sonra **bin_counter.vhd** ve **bin_counter_tb.vhd** dosyasını projeye dahil etmemizin ardından testbanch'i seçerek "*run simulation*" seçeneğine tıklamamız gerekmektedir, ve zaman simülasyonunu göreceğiz.
+Vivado programında ise proje oluşturduktan sonra **bin_counter.vhdl** ve **bin_counter_tb.vhdl** dosyasını projeye dahil etmemizin ardından testbanch'i seçerek "*run simulation*" seçeneğine tıklamamız gerekmektedir, ve zaman simülasyonunu göreceğiz.
 
 > [!WARNING]
 > Temsili(**örnek**) görsel kullanılmıştır...
